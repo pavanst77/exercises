@@ -1,0 +1,2 @@
+What is Synchronization?
+Synchronization in java is a technique to prevent concurrent access of any shared resource in a multi-threaded environment.
